@@ -61,11 +61,11 @@
 ## Установка
 
 ### 1. Клонировать репозиторий
-```bash
-git clone https://github.com/chickenzombie/test-task-arenadata
+`bash`
+`git clone https://github.com/chickenzombie/test-task-arenadata`
 
 ### 2. Перейти в директорию проекта
-```bash
+`bash`
 cd test-task-arenadata
 
 ### 3. Установить зависимости
